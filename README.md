@@ -18,7 +18,7 @@
 
 <h2 align="left">🌐 Redes Sociais:</h2>
 
----
+
  
 <div align="center">
   <a href="https://www.linkedin.com/in/augusto-corr%C3%AAa-6537a8276/" target="_blank">
@@ -38,7 +38,7 @@
 
 <h2 align="left">💻 Tech Stack:</h2>
 
----
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -67,7 +67,7 @@
 
 <h2 align="left">📊 GitHub Status:</h2>
 
----
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Augustbr01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
@@ -79,7 +79,7 @@
 
 <h2 align="left">Troféus do GitHub:</h2>
 
----
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Augustbr01&theme=matrix&column=4&row=1&margin-w=30&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
