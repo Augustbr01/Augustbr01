@@ -1,8 +1,35 @@
-# 💫 Sobre mim:
-👋 Olá, sou Augusto, estudante de Engenharia de Software. Apaixonado por resolver problemas através da tecnologia e me aprofundando recentemente na area de desenvolvimento.<br>🌱 Minhas áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br>🚀 Atualmente explorando JavaScript, lógica de programação e o mundo dev no geral.
 
-## 🌐 Redes Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NwJcK3FFbE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/augusto-corrêa-6537a8276) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/augustogatti_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Augustogatti_)
+---
+<h2 align="left">💫 Sobre mim:</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://i.gifer.com/1j6F.gif"  />
+
+###
+
+<p align="left">👋 Olá! Sou o Augusto, estudante de Engenharia de Software, apaixonado por resolver problemas através da tecnologia e recentemente mergulhando mais fundo na área de desenvolvimento.<br><br>🌱 Áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br><br>🚀 Atualmente estou explorando JavaScript, lógica de programação e expandindo meus conhecimentos no mundo dev como um todo.</p>
+
+###
+<h2 align="left">🌐 Redes Sociais:</h2
+
+<div align="center">
+  <a href="https://discord.gg/NwJcK3FFbE">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://linkedin.com/in/augusto-corrêa-6537a8276">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pinterest.com/augustogatti_">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
+  <a href="https://x.com/Augustogatti_">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (Twitter)"/>
+  </a>
+</div>
+
 
 <h2 align="left">💻 Tech Stack:</h2>
 
@@ -32,12 +59,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Augustbr01&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Augustbr01&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustbr01&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Augustbr01&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">📊 GitHub Status:</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Augustbr01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Augustbr01&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Augustbr01&locale=pt-br&mode=daily&theme=blue-green&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="100" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="left">Troféus do GitHub:</h2>
+
+###
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Augustbr01&theme=matrix&column=4&row=1&margin-w=30&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
