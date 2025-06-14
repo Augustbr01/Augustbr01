@@ -1,16 +1,27 @@
 <h2 align="left">💫 Sobre mim:</h2>
 
-###
+<div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-<br clear="both">
+  <!-- GIF na esquerda -->
+  <img src="https://i.gifer.com/1j6F.gif" height="200" alt="GIF" />
 
-<img align="right" height="200" src="https://i.gifer.com/1j6F.gif"  />
+  <!-- Texto na direita -->
+  <div align="left">
 
-###
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=4400&pause=1000&color=F7F7F7&center=false&vCenter=true&multiline=true&repeat=false&width=500&lines=%F0%9F%91%8B+Ol%C3%A1!++Eu+sou+o+Augusto!" alt="Typing SVG" />
+  </a>
 
-<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=4400&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=500&lines=%F0%9F%91%8B+Ol%C3%A1!++Eu+sou+o+Augusto!" alt="Typing SVG" /></a>
-Estudante de Engenharia de Software, apaixonado por resolver problemas através da tecnologia e recentemente mergulhando mais fundo na área de desenvolvimento.<br><br>🌱 Áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br><br>🚀 Atualmente estou explorando JavaScript, lógica de programação e expandindo meus conhecimentos no mundo dev como um todo.<br><br>👨‍💻 Agora sou indie hacker e feliz por contribuir na BeroLab!
-</p>
+  <p>
+  Estudante de Engenharia de Software, apaixonado por resolver problemas através da tecnologia e recentemente mergulhando mais fundo na área de desenvolvimento.<br><br>
+  🌱 Áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br><br>
+  🚀 Atualmente estou explorando JavaScript, lógica de programação e expandindo meus conhecimentos no mundo dev como um todo.<br><br>
+  👨‍💻 Agora sou indie hacker e feliz por contribuir na BeroLab!
+  </p>
+
+  </div>
+
+</div>
 
 ###
 
