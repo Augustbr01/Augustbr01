@@ -77,11 +77,3 @@
 
 
 
-<h2 align="left">Troféus do GitHub:</h2>
-
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Augustbr01&theme=matrix&column=4&row=1&margin-w=30&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
