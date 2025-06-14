@@ -1,26 +1,18 @@
 <h2 align="left">💫 Sobre mim:</h2>
 
-<table>
-  <tr>
-    <!-- GIF na esquerda -->
-    <td>
-      <img src="https://i.gifer.com/1j6F.gif" height="200" alt="GIF animado">
-    </td>
+###
 
-    <!-- Texto animado + parágrafo na direita -->
-    <td>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=4400&pause=1000&color=F7F7F7&center=false&vCenter=true&multiline=true&repeat=false&width=500&lines=%F0%9F%91%8B+Ol%C3%A1!++Eu+sou+o+Augusto!" alt="Typing SVG" />
-      </a>
-      <p>
-        Estudante de Engenharia de Software, apaixonado por resolver problemas através da tecnologia e recentemente mergulhando mais fundo na área de desenvolvimento.<br><br>
-        🌱 Áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br><br>
-        🚀 Atualmente estou explorando JavaScript, lógica de programação e expandindo meus conhecimentos no mundo dev como um todo.<br><br>
-        👨‍💻 Agora sou indie hacker e feliz por contribuir na BeroLab!
-      </p>
-    </td>
-  </tr>
-</table>
+<br clear="both">
+
+<img align="right" height="200" src="https://i.gifer.com/1j6F.gif"  />
+
+###
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=2200&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=350&lines=%F0%9F%91%8B+Ol%C3%A1!++Eu+sou+o+Augusto!" alt="Typing SVG" /></a>
+
+###
+
+<p align="left">Estudante de Engenharia de Software, apaixonado por resolver problemas através da tecnologia e recentemente mergulhando mais fundo na área de desenvolvimento.<br><br>🌱 Áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br><br>🚀 Atualmente estou explorando JavaScript, lógica de programação e expandindo meus conhecimentos no mundo dev como um todo.</p>
 
 ###
 
@@ -80,14 +72,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Augustbr01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Augustbr01&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Augustbr01&locale=pt-br&mode=daily&theme=blue-green&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Augustbr01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Augustbr01&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Augustbr01&locale=pt-br&mode=daily&theme=blue-green&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align="left">🏆 Troféus do GitHub:</h2>
+<h2 align="left">Troféus do GitHub:</h2>
 
 ###
 
