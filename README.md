@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👋 Olá! Sou o Augusto, estudante de Engenharia de Software, apaixonado por resolver problemas através da tecnologia e recentemente mergulhando mais fundo na área de desenvolvimento.<br><br>🌱 Áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br><br>🚀 Atualmente estou explorando JavaScript, lógica de programação e expandindo meus conhecimentos no mundo dev como um todo.<br><br>👨‍💻 Agora sou um indie hacker e feliz por contribuir na BeroLab!</p>
+<p align="left">👋 Olá! Sou o Augusto, estudante de Engenharia de Software, apaixonado por resolver problemas através da tecnologia e recentemente mergulhando mais fundo na área de desenvolvimento.<br><br>🌱 Áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br><br>🚀 Atualmente estou explorando JavaScript, lógica de programação e expandindo meus conhecimentos no mundo dev como um todo.<br><br>👨‍💻 Agora sou indie hacker e feliz por contribuir na BeroLab!</p>
 
 ###
 
