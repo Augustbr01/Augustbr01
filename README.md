@@ -75,7 +75,7 @@
 
 ###
 
-<h2 align="left">Troféus do GitHub:</h2>
+<h2 align="left">🏆 Troféus do GitHub:</h2>
 
 ###
 
