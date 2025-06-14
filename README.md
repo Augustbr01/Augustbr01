@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Sou+o+Augusto%2C+estudante+de+Engenharia+de+Software%2C+apaixonado+por+resolver+problemas+atrav%C3%A9s+da+tecnologia+e+recentemente+mergulhando+mais+fundo+na+%C3%A1rea+de+desenvolvimento.;%F0%9F%8C%B1+%C3%81reas+de+interesse%3A+Desenvolvimento+de+Software%2C+Intelig%C3%AAncia+Artificial%2C+Startups+e+Inova%C3%A7%C3%A3o.;%F0%9F%9A%80+Atualmente+estou+explorando+JavaScript%2C+l%C3%B3gica+de+programa%C3%A7%C3%A3o+e+expandindo+meus+conhecimentos+no+mundo+dev+como+um+todo.;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Agora+sou+indie+hacker+e+feliz+por+contribuir+na+BeroLab!" alt="Typing SVG" /></a></p>
+<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=4400&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=890&height=300&lines=%F0%9F%91%8B+Ol%C3%A1!++Eu+sou+o+Augusto!" alt="Typing SVG" /></a>
+Estudante de Engenharia de Software, apaixonado por resolver problemas através da tecnologia e recentemente mergulhando mais fundo na área de desenvolvimento.<br><br>🌱 Áreas de interesse: Desenvolvimento de Software, Inteligência Artificial, Startups e Inovação.<br><br>🚀 Atualmente estou explorando JavaScript, lógica de programação e expandindo meus conhecimentos no mundo dev como um todo.<br><br>👨‍💻 Agora sou indie hacker e feliz por contribuir na BeroLab!
+</p>
 
 ###
 
