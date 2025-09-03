@@ -27,9 +27,6 @@
   <a href="https://x.com/Augustogatti_" target="_blank">
     <img src="https://cdn.simpleicons.org/x/FFFFFF/ffffff" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.gg/NwJcK3FFbE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
     <a href="https://br.pinterest.com/augustogatti_/" target="_blank">
     <img src="https://cdn.simpleicons.org/pinterest/FFFFFF/f80000" width="52" height="40" alt="discord logo"  />
   </a>
