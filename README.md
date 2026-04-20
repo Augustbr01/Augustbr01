@@ -16,8 +16,8 @@ I learn by studying how great engineers solve real problems — and apply those 
   <a href="https://github.com/Augustbr01">
     <img src="https://img.shields.io/badge/GitHub-Augusto Correa-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/augustogatti">
-    <img src="https://img.shields.io/badge/Instagram-@Augustogatti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/augustogatti_">
+    <img src="https://img.shields.io/badge/Instagram-@augustogatti_-3F2BFF?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="www.linkedin.com/in/augusto-corrêa">
     <img src="https://img.shields.io/badge/linkedin-@AugustoCorrea-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
