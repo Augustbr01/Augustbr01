@@ -1,6 +1,6 @@
 # Hi 👋, I'm Augusto Corrêa
 
-🚀 **Junior Software Engineer | Java & React** | MS — Brazil
+🚀 **Student of Software Engineer | Java & React** | MS — Brazil
 
 Building my technical base with focus on clean architecture and scalable systems.
 
