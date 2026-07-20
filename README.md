@@ -100,9 +100,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Augustbr01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustbr01&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" height="165" alt="Top languages" />
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Augustbr01&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub streak" />
