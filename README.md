@@ -130,10 +130,10 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+<a href="https://www.linkedin.com/in/augusto-corrêa/">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR-EMAIL-HERE@example.com">
+<a href="mailto:hello@augustdev.com.br">
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" />
 </a>
 &nbsp;
@@ -141,6 +141,6 @@
 
 <br><br>
 
-<img src="assets/footer.svg" width="100%" alt="open to building cool stuff" />
+<img src="assets/footer.svg" alt="open to building cool stuff" />
 
 </div>
