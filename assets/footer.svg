@@ -1,7 +1,7 @@
 <svg width="900" height="130" viewBox="0 0 900 130" fill="none" xmlns="http://www.w3.org/2000/svg">
 <style>
   text { font-family: 'Cascadia Code', 'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace; }
-  .ring { animation: pulse 2.2s ease-out infinite; transform-origin: 429px 46px; }
+  .ring { animation: pulse 2.2s ease-out infinite; transform-origin: 306px 46px; }
   @keyframes pulse { 0% { transform: scale(0.4); opacity: 0.9; } 100% { transform: scale(3.2); opacity: 0; } }
   .sweep { transform: translateX(-170px); animation: sw 4.5s ease-in-out infinite; }
   @keyframes sw { 0% { transform: translateX(-170px); } 60% { transform: translateX(910px); } 100% { transform: translateX(910px); } }
@@ -15,9 +15,12 @@
 </defs>
 <rect x="0" y="4" width="900" height="1" fill="#3b4261" opacity="0.6"/>
 <rect class="sweep" x="0" y="3" width="160" height="2" fill="url(#g)"/>
-<circle class="ring" cx="429" cy="46" r="6" stroke="#9ece6a" stroke-width="1.5"/>
-<circle cx="429" cy="46" r="5" fill="#9ece6a"/>
-<text x="446" y="51" font-size="17" fill="#c0caf5">open to building cool stuff</text>
+
+<!-- Coordenadas ajustadas para o centro exato (306px para a bolinha, 323px para o texto) -->
+<circle class="ring" cx="306" cy="46" r="6" stroke="#9ece6a" stroke-width="1.5"/>
+<circle cx="306" cy="46" r="5" fill="#9ece6a"/>
+<text x="323" y="51" font-size="17" fill="#c0caf5">open to building cool stuff</text>
+
 <text x="450" y="86" text-anchor="middle" font-size="14" fill="#565f89">made in Brazil &#127463;&#127479;</text>
 <text x="450" y="114" text-anchor="middle" font-size="12" fill="#3b4261">~ EOF ~</text>
 </svg>
