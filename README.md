@@ -1,66 +1,149 @@
-# Hi 👋, I'm Augusto Corrêa
+<div align="center">
 
-🚀 **Student of Software Engineer | Java & React** | MS — Brazil
+<img src="assets/hero.svg" width="100%" alt="Augusto Corrêa — terminal intro" />
 
-Building my technical base with focus on clean architecture and scalable systems.
+</div>
 
-I learn by studying how great engineers solve real problems — and apply those same principles to my own projects.
+<br>
 
-🎯 Currently focused on backend with Java & Spring Boot, and building my first real-world projects.
+<img src="assets/h-about.svg" width="100%" alt="cat ./about.md" />
 
----
+- 🎓 4th-semester **Software Engineering** student @ UNIGRAN — 19 y/o, Mato Grosso do Sul, Brazil 🇧🇷
+- 🧩 **Problem-driven development** — Crafting secure and efficient solutions with the best tools for the job
+- 🛠️ I build **projects that solve problems from my own daily life**
+- 🤖 Learning to use **AI as a force multiplier** in development
+- 📚 Taking **CS50 (Harvard)**, learning from experienced engineers, applying good practices everywhere I can
 
-## 🌐 Where to find me
+<br>
 
-<p align="left">
-  <a href="https://github.com/Augustbr01">
-    <img src="https://img.shields.io/badge/GitHub-Augusto Correa-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/augustogatti_">
-    <img src="https://img.shields.io/badge/Instagram-@augustogatti_-3F2BFF?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/augusto-corrêa">
-    <img src="https://img.shields.io/badge/linkedin-@AugustoCorrea-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="assets/h-stack.svg" width="100%" alt="ls ./toolbox" />
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+<br>
 
-### Frontend
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" alt="Languages" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+**Backend**
 
-### Backend
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,postgres,sqlite&theme=dark" alt="Backend" />
+<img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=jsonwebtokens&logoColor=7aa2f7" alt="JWT" />
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+**Frontend**
 
-### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,styledcomponents,html,css&theme=dark" alt="Frontend" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+**Tools**
 
----
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,figma,obsidian&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/Claude_AI-1a1b26?style=for-the-badge&logo=anthropic&logoColor=7aa2f7" alt="Claude" />
 
-## 📊 GitHub Stats
+</div>
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=augustbr01&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustbr01&layout=compact&theme=tokyonight" />
-</p>
+<br>
 
----
+<img src="assets/h-projects.svg" width="100%" alt="git log --featured" />
+
+<div align="center">
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Augustbr01/ScraperCar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Augustbr01&repo=ScraperCar&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="ScraperCar" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Augustbr01/TaskSys">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Augustbr01&repo=TaskSys&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="TaskSys" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Augustbr01/VerseApp-V2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Augustbr01&repo=VerseApp-V2&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="VerseApp-V2" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Augustbr01/ChatbotIA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Augustbr01&repo=ChatbotIA&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="ChatbotIA" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Augustbr01/SistemaLogin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Augustbr01&repo=SistemaLogin&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="SistemaLogin" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+⭐ **[ScraperCar](https://github.com/Augustbr01/ScraperCar)** — monitors vehicle deals and notifies via WhatsApp<br>
+📋 **[TaskSys](https://github.com/Augustbr01/TaskSys)** — task management REST API (Java + Spring Boot)<br>
+📖 **[VerseApp-V2](https://github.com/Augustbr01/VerseApp-V2)** — search and read Bible verses (React, Vite, Tailwind)<br>
+🤖 **[ChatbotIA](https://github.com/Augustbr01/ChatbotIA)** — FastAPI chatbot with a web UI integrating LLMs<br>
+🔐 **[SistemaLogin](https://github.com/Augustbr01/SistemaLogin)** — full-stack auth (FastAPI + SQLite)
+
+</div>
+
+<br>
+
+<img src="assets/h-stats.svg" width="100%" alt="gh stats" />
+
+<div align="center">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Augustbr01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustbr01&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" height="165" alt="Top languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Augustbr01&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub streak" />
+
+</div>
+
+<br>
+
+<img src="assets/h-snake.svg" width="100%" alt="snake" />
+
+<div align="center">
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Augustbr01/Augustbr01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Augustbr01/Augustbr01/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Augustbr01/Augustbr01/output/github-snake-dark.svg" alt="Contribution snake" />
+</picture>
+
+</div>
+
+<br>
+
+<img src="assets/h-connect.svg" width="100%" alt="ping augusto" />
+
+<div align="center">
+
+<br>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR-EMAIL-HERE@example.com">
+  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Augustbr01&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br><br>
+
+<img src="assets/footer.svg" width="100%" alt="open to building cool stuff" />
+
+</div>
