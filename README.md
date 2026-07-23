@@ -24,7 +24,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" alt="Languages" />
 
 **Backend**
 
